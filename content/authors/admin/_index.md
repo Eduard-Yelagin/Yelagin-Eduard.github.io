@@ -1,5 +1,4 @@
 ---
-color: sky
 
 # Display name
 title: Eduard Yelagin
