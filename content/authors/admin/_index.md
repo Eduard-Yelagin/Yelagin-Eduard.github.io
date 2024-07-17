@@ -181,4 +181,4 @@ skills:
 
 ## About Me
 
-I am a PhD candidate on the job market<a href="https://scholar.google.com/citations?hl=en&user=fIiDOWkAAAAJ">, advised by with research primarily focused on empirical market microstructure and FinTech, with a particular emphasis on financial market innovation. Currently, I am studying the effects of stock trading gamification on retail traders and other market participants, including brokerage firms and market makers.
+I am a PhD candidate on the job market, advised by <a href="https://example.com" target="_blank">Konstantin Sokolov</a>. My research primarily focuses on empirical market microstructure and FinTech, with a particular emphasis on financial market innovation. Currently, I am studying the effects of stock trading gamification on retail traders and other market participants, including brokerage firms and market makers.
