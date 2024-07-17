@@ -137,7 +137,7 @@ skills:
       - name: Fiction
         description: ''
         percent: 100
-        icon: book
+        icon: book-open
 
 languages:
   - name: English
