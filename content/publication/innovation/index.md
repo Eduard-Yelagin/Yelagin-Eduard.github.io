@@ -5,9 +5,9 @@ title: 'Who Benefits from Secuirites Exchange Innovation?'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Andriy Shkilko
   - Konstantin Sokolov
+  - admin
 
 date: '2024-06-01T00:00:00Z'
 doi: ''
@@ -21,8 +21,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+#publication: In *Hugo Blox Builder Conference*
+#publication_short: In *ICW*
 
 abstract: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
 
