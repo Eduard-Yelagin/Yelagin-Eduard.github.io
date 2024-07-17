@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: <p style="color: black;">This is a paragraph with black text.</p>
+role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
