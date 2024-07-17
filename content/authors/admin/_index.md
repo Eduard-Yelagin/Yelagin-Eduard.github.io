@@ -138,6 +138,10 @@ skills:
         description: ''
         percent: 100
         icon: book-open
+      - name: Blogging
+        description: ''
+        percent: 100
+        icon: video-camera
 
 languages:
   - name: English
