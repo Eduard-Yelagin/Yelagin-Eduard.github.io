@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD candidate2
+role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
