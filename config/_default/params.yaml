@@ -7,7 +7,6 @@
 appearance:
   mode: system
   color: zinc
-  #theme_default: light
 
 # SEO
 marketing:
