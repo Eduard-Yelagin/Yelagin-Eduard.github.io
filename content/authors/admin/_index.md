@@ -40,7 +40,7 @@ profiles:
     url: https://github.com/Eduard-Yelagin
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/eduard-yelagin-07417114b/
-  - icon: brands/linkedin
+  - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=EVRDC3UAAAAJ&hl=en&oi=ao
 
 interests:
