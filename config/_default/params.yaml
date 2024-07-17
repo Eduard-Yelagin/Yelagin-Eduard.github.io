@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: teal
+  color: zinc
+  #theme_default: light
 
 # SEO
 marketing:
