@@ -6,7 +6,7 @@ title: 'Who Benefits from Secuirites Exchange Innovation?'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Andriy Shkilko
-  - Konstantin Sokolov
+  - sokolov
   - admin
 
 date: '2024-06-01T00:00:00Z'
