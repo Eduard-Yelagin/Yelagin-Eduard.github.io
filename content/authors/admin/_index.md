@@ -40,8 +40,8 @@ profiles:
     url: https://github.com/Eduard-Yelagin
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/eduard-yelagin-07417114b/
-  - icon: https://scholar.google.com/citations?user=EVRDC3UAAAAJ&hl=en&oi=ao
-    url: https://scholar.google.com/
+  - icon: brands/linkedin
+    url: https://scholar.google.com/citations?user=EVRDC3UAAAAJ&hl=en&oi=ao
 
 interests:
   - Market Microstructure
@@ -181,4 +181,4 @@ skills:
 
 ## About Me
 
-I am a PhD candidate on the job market, with research primarily focused on empirical market microstructure and FinTech, with a particular emphasis on financial market innovation. Currently, I am studying the effects of stock trading gamification on retail traders and other market participants, including brokerage firms and market makers.
+I am a PhD candidate on the job market<a href="https://scholar.google.com/citations?hl=en&user=fIiDOWkAAAAJ">, advised by with research primarily focused on empirical market microstructure and FinTech, with a particular emphasis on financial market innovation. Currently, I am studying the effects of stock trading gamification on retail traders and other market participants, including brokerage firms and market makers.
