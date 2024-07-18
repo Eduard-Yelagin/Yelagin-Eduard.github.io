@@ -7,7 +7,7 @@ math: false
 tags:
   - undergraduate & graduate level
 ---
-![alt text](featured.jpg "Title")
+<img src="featured.jpg" width="512" height="512">
 
 ### Summary
 In today's rapidly evolving financial landscape, understanding how to effectively plan for retirement and manage your estate is more critical than ever. Whether you are an undergraduate embarking on your financial journey or a graduate student looking to deepen your expertise, this course is designed to equip you with the essential knowledge and skills to secure your financial future and that of your loved ones.
