@@ -19,10 +19,9 @@ doi: ''
 #publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '**2024-09-20:** Northern Finance Association Conference
-  another line'
-#'  * 2024-07-04 31st Finance Conference'
-#'  * 2024-04-07 Mid-South DATA Conference'
+publication: '2024-09-20: **Northern Finance Association Conference**
+  2024-07-04: **31st Finance Conference**
+  2024-04-07: **Mid-South DATA Conference**'
 #publication_short: In *ICW*
 
 abstract: Gamification of stock trading is a novel practice by brokers to incorporate game-like features to increase clients’ engagement with trading. This study examines how the market reacts to the introduction of 142 gamification features in the mobile trading apps of 17 major U.S. brokers. I find that the gamification of trading can be viewed as a double-edged sword. It alters and worsens retail traders’ strategy by reducing their returns and increasing return volatility. However, it also reduces costs and risks for liquidity providers by making retail order flow less toxic, leading to a positive effect for the rest of the market.
