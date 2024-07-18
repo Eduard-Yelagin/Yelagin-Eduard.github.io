@@ -62,6 +62,12 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
   - block: collection
     content:
       title: Experience
