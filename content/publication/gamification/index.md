@@ -105,6 +105,6 @@ This paper also discusses retail brokerage firms. In today’s market, they act 
 
 Gamification can be defined as “the use of game design elements in non-game contexts” (Deterding, Dixon, Khaled, and Nacke (2011)). It has been widely used in education (Caponetto, Earp, and Ott (2014)), business (Wünderlich, Gustafsson, Hamari, Parvinen, and Haff (2020)), and healthcare (Johnson, Deterding, Kuhn, Staneva, Stoyanov, and Hides (2016)) as a method to enhance performance in a given task. Whereas in finance, the only documented cases of the use of gamification are in the banking sector (Rodrigues, Oliveira, and Costa (2016); Baptista and Oliveira (2017)). This study contributes to the literature by analyzing how new game-like features, introduced by brokerage firms, affect their clients, i.e., retail traders. Chapkovski, Khapko, and Zoican (2021) conducted an experiment on traders using a trading platform with and without game-like features. Their study shows that gamification elements increase traders’ engagement, prompt them to take excessive risks, and conduct noisier trading. The results of this study confirm these findings in an empirical setting.
 
-</span>
-
 <a href="https://drive.google.com/file/d/1xHJsoe2Bauc-DBbNQ5p9U5CQUHQZyX4F/view?usp=drive_link" target="_blank"> **Read more** </a>
+
+</span>

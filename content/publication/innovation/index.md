@@ -120,6 +120,7 @@ The empirical literature examines a number of technological enhancements to the 
 Our study is related to the literature that examines liquidity costs and to a sub-set of this literature that focuses on institutional investors. Anand, Puckett, Irvine, and Venkataraman (2013) suggest that despite the overall trend to lower liquidity costs in the 21st century, institutional investor trading costs did not decline. This result echoes the earlier findings by Goldstein and Kavajecz (2000) and Jones and Lipson (2001), who show that regulatory actions that reduce spreads may not have similar liquidity-boosting effects for large traders. Eaton, Irvine, and Liu (2021) generalize this finding to caution that changes in institutional trading costs do not always align with changes in conventional TAQ-based liquidity metrics.
 
 Our arguments are also rooted in the literature on sophisticated trading firms often referred to as HFTs. Such firms fulfill several important functions, among which liquidity provision and ar- bitrage stand out as dominant (Brogaard, Hendershott, and Riordan (2014), Chaboud, Chiquoine, Hjalmarsson, and Vega (2014), Brogaard, Hagströmer, Nordén, and Riordan (2015), Boehmer, Li, and Saar (2018)). HFTs are highly skilled at avoiding adverse selection and maintaining low inventories (Korajczyk and Murphy (2019), Van Kervel and Menkveld (2019)), and therefore their liquidity supply is likely more beneficial to uninformed investors seeking small amounts of liquidity than to institutional investors.
-</span>
 
 <a href="https://drive.google.com/file/d/1DIls7Nd8yXHXceqti9sAZ28v9E6OkIej/view?usp=sharing" target="_blank"> **Read more** </a>
+
+</span>
