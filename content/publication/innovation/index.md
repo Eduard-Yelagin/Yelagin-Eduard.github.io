@@ -21,7 +21,11 @@ doi: ''
 #publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Hugo Blox Builder Conference*
+publication: '2024-05-10: **Journal Submission**<br>
+  2023-06-21: **Plato Market Innovator Conference**<br>
+  2022-12-15: **Paris December Finance Meeting**<br>
+  2022-10-20: **Financial Management Association Meeting**<br>
+  2022-03-05: **Finance Down Under Conference**<br>'
 #publication_short: In *ICW*
 
 abstract: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
