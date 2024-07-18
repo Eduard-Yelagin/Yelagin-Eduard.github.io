@@ -24,7 +24,7 @@ doi: ''
 publication: '2024-05-10: **Journal Submission**<br>
   2023-06-21: **Plato Market Innovator Conference**<br>
   2022-12-15: **Paris December Finance Meeting**<br>
-  2022-10-20: **Financial Management Association Meeting**<br>
+  2022-10-20: <span style="font-size:0.8em;"> **Financial Management Association Meeting**</span><br>
   2022-03-05: **Finance Down Under Conference**<br>'
 #publication_short: In *ICW*
 
