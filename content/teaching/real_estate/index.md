@@ -16,5 +16,5 @@ In today's rapidly evolving financial landscape, understanding how to effectivel
 
 
 ### Evaluation (SETE)
-* [Undergraduate section] (https://drive.google.com/file/d/1DKJBU3KS8Sa8tczihev_3sYkdtzmsOck/view?usp=sharing)
-* [Graduate section] (https://drive.google.com/file/d/1JBKUsiPl6R7oEEqCusvDU6yu8fMxsbUv/view?usp=sharing)
+* [Undergraduate section](https://drive.google.com/file/d/1DKJBU3KS8Sa8tczihev_3sYkdtzmsOck/view?usp=sharing)
+* [Graduate section](https://drive.google.com/file/d/1JBKUsiPl6R7oEEqCusvDU6yu8fMxsbUv/view?usp=sharing)
