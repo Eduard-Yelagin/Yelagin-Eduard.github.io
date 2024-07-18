@@ -32,7 +32,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ashkilko@wlu.ca'
+    url: 'mailto:ashkilko@wlu.ca'
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/andriy-shkilko-00439b31/?originalSubdomain=ca
   - icon: brands/google-scholar
