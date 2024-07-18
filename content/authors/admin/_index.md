@@ -46,6 +46,7 @@ profiles:
 interests:
   - Market Microstructure
   - FinTech
+  - Cybersecurity
 
 education:
   - area: PhD in Finance
@@ -65,10 +66,10 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: AA in Business Administration
-    institution: Community College of Philadelphia
-    date_start: 2015-09-01
-    date_end: 2017-06-01
+#  - area: AA in Business Administration
+#    institution: Community College of Philadelphia
+#    date_start: 2015-09-01
+#    date_end: 2017-06-01
 #  - area: BSc Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    date_start: 2016-01-01
