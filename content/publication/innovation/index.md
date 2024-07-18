@@ -46,6 +46,7 @@ url_pdf: 'https://drive.google.com/file/d/1DIls7Nd8yXHXceqti9sAZ28v9E6OkIej/view
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
+links:
 - name: Slides
   url: 'https://docs.google.com/presentation/d/14-m0IH2ocgj4WEanVijXczbnUgKEaCnT/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
 #url_slides: 'https://docs.google.com/presentation/d/14-m0IH2ocgj4WEanVijXczbnUgKEaCnT/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
