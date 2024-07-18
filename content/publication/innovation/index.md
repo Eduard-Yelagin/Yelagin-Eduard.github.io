@@ -72,8 +72,10 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-##### Introduction
-<span style="font-size:0.5em;">
+##### **Introduction**
+
+<span style="font-size:0.8em;">
+
 The role of securities exchanges in the proper functioning of financial markets is difficult to overstate. Exchanges bring together investors, large and small, allowing them to realize gains from trade, mobilize capital, and incorporate relevant information into prices. To keep pace with the unrelenting march of technology and customer expectations, exchanges continuously innovate. Theoretical models predict that such innovation may have both positive and negative effects on market quality. Likewise, empirical studies find that while some exchange initiatives are beneficial for liquidity, others may be disadvantageous. With such varying findings, it is of interest to ask if exchange innovation is beneficial as a whole, and if all market participants capture the benefits.
 
 We address these questions using a multi-year sample of new technological offerings by stock exchanges in the United States. These offerings range from improvements in data dissemination to enhancements in order processing by exchange engines. The results suggest that exchange innovation is generally associated with lower trading costs for investors who trade in small quantities. In the meantime, institutional investors do not appear to derive as much benefit from new exchange technologies; while their trading costs are typically unaffected, their trading volumes decline after new technologies are introduced.
