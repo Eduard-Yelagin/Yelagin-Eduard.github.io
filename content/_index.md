@@ -59,7 +59,6 @@ sections:
       filters:
         folders:
           - teaching
-        featured_only: true
     design:
       view: article-grid
       columns: 2
