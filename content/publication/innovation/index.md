@@ -102,7 +102,7 @@ Finally, we seek to understand the driving forces behind exchange innovation. In
 
 Our findings contribute to an ongoing discussion of modern market structure and the securities exchange industry. Even though exchange innovation by the incumbent exchanges likely does not have nefarious intentions towards any particular group of market participants, it may inadvertently benefit those, who are best equipped for technological change. In this respect, establishing markets that cater to the needs of the institutional community may be socially optimal. This logic echoes Biais, Foucault, and Moinas (2015), who model interactions between investors that operate at different trading speeds and examine the benefits of segmenting markets into those that cater to fast and slow traders.
 
-##### **Related literature.** 
+##### **Related literature** 
 
 Several theoretical models consider the effects of advancements in exchange technology and predict that such advancements may be both beneficial and detrimental. Menkveld and Zoican (2017) show that increasing exchange engine processing speed may have both positive and negative effects on liquidity. In their model, the direction of the effect may vary over time and in the cross-section and depends on the mix of liquidity traders and news events. Pagnotta and Philippon (2018) show that increasing exchange speed may lead to lower trading fees and greater investor participation. They however caution that purely technological improvements to trading technology may lead to limited welfare gains.
 
@@ -114,3 +114,5 @@ Our study is related to the literature that examines liquidity costs and to a su
 
 Our arguments are also rooted in the literature on sophisticated trading firms often referred to as HFTs. Such firms fulfill several important functions, among which liquidity provision and ar- bitrage stand out as dominant (Brogaard, Hendershott, and Riordan (2014), Chaboud, Chiquoine, Hjalmarsson, and Vega (2014), Brogaard, Hagströmer, Nordén, and Riordan (2015), Boehmer, Li, and Saar (2018)). HFTs are highly skilled at avoiding adverse selection and maintaining low inventories (Korajczyk and Murphy (2019), Van Kervel and Menkveld (2019)), and therefore their liquidity supply is likely more beneficial to uninformed investors seeking small amounts of liquidity than to institutional investors.
 </span>
+
+<a href="https://drive.google.com/file/d/1DIls7Nd8yXHXceqti9sAZ28v9E6OkIej/view?usp=sharing" target="_blank"> **Read more** </a>
