@@ -28,7 +28,7 @@ abstract: Securities markets continuously innovate to keep pace with technology.
 
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
 
 tags:
   - Under journal revision
