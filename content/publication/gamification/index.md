@@ -26,7 +26,7 @@ abstract: Gamification of stock trading is a novel practice by brokers to incorp
 
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Gamification of stock trading is a novel practice by brokers to incorporate game-like features to increase clients’ engagement with trading. This study examines how the market reacts to the introduction of 142 gamification features in the mobile trading apps of 17 major U.S. brokers. I find that the gamification of trading can be viewed as a double-edged sword. It alters and worsens retail traders’ strategy by reducing their returns and increasing return volatility. However, it also reduces costs and risks for liquidity providers by making retail order flow less toxic, leading to a positive effect for the rest of the market.
 
 tags:
   - Job market paper
