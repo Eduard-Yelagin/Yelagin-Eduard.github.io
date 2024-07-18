@@ -1,5 +1,5 @@
 ---
-title: 'Who Benefits from Secuirites Exchange Innovation?'
+title: 'Who Benefits from Securities Exchange Innovation?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
