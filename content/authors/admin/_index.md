@@ -65,7 +65,7 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: A.A. in Business Administration
+  - area: AA in Business Administration
     institution: Community College of Philadelphia
     date_start: 2015-09-01
     date_end: 2017-06-01
