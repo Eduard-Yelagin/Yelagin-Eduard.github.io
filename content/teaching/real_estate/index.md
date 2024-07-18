@@ -1,7 +1,7 @@
 ---
 title: Retirement and Estate Planning
 summary: In today's rapidly evolving financial landscape, understanding how to effectively plan for retirement and manage your estate is more critical than ever. Whether you are an undergraduate embarking on your financial journey or a graduate student looking to deepen your expertise, this course is designed to equip you with the essential knowledge and skills to secure your financial future and that of your loved ones.
-date: 2023-09-01
+date: 2023-01-21
 type: docs
 math: false
 tags:
