@@ -68,15 +68,6 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: collection
-    content:
-      title: Experience
-      filters:
-        folders:
-          - experience
-    design:
-      view: article-grid
-      columns: 1
 #  - block: collection
 #    content:
 #      title: Recent Publications
