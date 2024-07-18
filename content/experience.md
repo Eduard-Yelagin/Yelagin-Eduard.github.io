@@ -19,7 +19,6 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
-    align: left
     content:
       title: Skills & Hobbies
       username: admin
