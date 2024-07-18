@@ -1,5 +1,5 @@
 ---
-title: 'Gamification of Stock Trading Losers and Winners'
+title: 'Gamification of Stock Trading: Losers and Winners'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -29,8 +29,8 @@ abstract: Gamification of stock trading is a novel practice by brokers to incorp
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Conference stage
   - Job market paper
+  - Conference stage
 
 # Display this page in the Featured widget?
 featured: true
