@@ -94,7 +94,7 @@ slides: example
     <td style="border:none;">
       <table style="width:100%; border-collapse: collapse; border:none;">
         <tr style="border:none;">
-          <td style="font-size:14px; text-align:right; border:none; white-space: nowrap;">
+          <td style="font-size:14px; text-align:justify; border:none; white-space: nowrap;">
             2024-10-17:<br>
             2024-09-20:<br>
             2024-07-04:<br>
