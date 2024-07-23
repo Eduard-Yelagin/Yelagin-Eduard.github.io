@@ -23,8 +23,8 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      position: center
-      #    parallax: false
+      position: right
+      parallax: True
       show_skill_percentage: false
 #  - block: resume-awards
     #content:
