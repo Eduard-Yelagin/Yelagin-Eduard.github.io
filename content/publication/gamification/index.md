@@ -80,11 +80,11 @@ slides: example
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td style="font-size:24px; font-weight:bold; border:none;">
+    <td style="font-size:24px; font-weight:bold; border:none; text-align:center; vertical-align:middle;">
       Abstract
     </td>
     <td style="font-size:14px; border:none;">
-      Gamification acts as a catalyst to significantly boost human engagement in a given task. It has been widely used in education (Caponetto, Earp, and Ott (2014)), business (Wünderlich, Gustafsson, Hamari, Parvinen, and Haff (2020)), and healthcare (Johnson, Deterding, Kuhn, Staneva, Stoyanov, and Hides (2016)). Meanwhile, the all-time high participation rate of retail investors (McCabe (2021)), the recent case of market manipulation with meme stocks (Pedersen (2022)), and continual debates in the Securities and Exchange Commission about the regulation of brokers strategies in the U.S. to enhance clients’ engagement (SEC (2021)) call for a market microstructure study of gamification.
+      Gamification of stock trading is a novel practice by brokers to incorporate game-like features to increase clients’ engagement with trading. This study examines how the market reacts to the introduction of 142 gamification features in the mobile trading apps of 17 major U.S. brokers. I find that the gamification of trading can be viewed as a double-edged sword. It alters and worsens retail traders’ strategy by reducing their returns and increasing return volatility. However, it also reduces costs and risks for liquidity providers by making retail order flow less toxic, leading to a positive effect for the rest of the market.
     </td>
   </tr>
 </table>
