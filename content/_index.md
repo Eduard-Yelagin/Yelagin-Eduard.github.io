@@ -54,6 +54,17 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: papers
+    content:
+      title: Published Papers
+      filters:
+        folders:
+          - published
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
     content:
       title: Teaching
       filters:
@@ -68,13 +79,13 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-#  - block: collection
-#    content:
-#      title: Recent Publications
-#      text: ""
-#      filters:
-#        folders:
-#          - publication
+  - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - published
 #        exclude_featured: false
 #    design:
 #      view: citation
