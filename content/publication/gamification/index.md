@@ -90,7 +90,7 @@ slides: example
     </td>
   </tr>
   <tr style="border:none;">
-    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; padding-top:10px;">
+    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; padding-top:50px;">
       Conferences
     </td>
     <td style="font-size:14px; text-align:left; border:none;">
