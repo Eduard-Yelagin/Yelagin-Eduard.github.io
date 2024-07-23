@@ -76,8 +76,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-#<span style="font-size:0.8em;">
-</span>
 <title>**Introduction**</title>
 
 <span style="font-size:0.8em;">
