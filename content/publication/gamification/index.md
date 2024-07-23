@@ -88,7 +88,7 @@ slides: example
     </td>
   </tr>
   <tr style="border:none;">
-    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:10px;">
+    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:-10px;">
       Conferences
     </td>
     <td style="font-size:14px; text-align:left; border:none;">
