@@ -76,7 +76,18 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-<title>**Introduction**</title>
+**Introduction**
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="font-size:24px; font-weight:bold; border:none;">
+      Abstract
+    </td>
+    <td style="font-size:14px; border:none;">
+      Gamification acts as a catalyst to significantly boost human engagement in a given task. It has been widely used in education (Caponetto, Earp, and Ott (2014)), business (Wünderlich, Gustafsson, Hamari, Parvinen, and Haff (2020)), and healthcare (Johnson, Deterding, Kuhn, Staneva, Stoyanov, and Hides (2016)). Meanwhile, the all-time high participation rate of retail investors (McCabe (2021)), the recent case of market manipulation with meme stocks (Pedersen (2022)), and continual debates in the Securities and Exchange Commission about the regulation of brokers strategies in the U.S. to enhance clients’ engagement (SEC (2021)) call for a market microstructure study of gamification.
+    </td>
+  </tr>
+</table>
 
 <span style="font-size:0.8em;">
 
