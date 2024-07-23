@@ -79,13 +79,13 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: collection
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - published
+#  - block: collection
+#    content:
+#      title: Publications
+#      text: ""
+#      filters:
+#        folders:
+#          - published
 #        exclude_featured: false
 #    design:
 #      view: citation
