@@ -19,7 +19,7 @@ doi: ''
 #publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '<span style="font-size:0.95em;">2024-09-20: **Northern Finance Association Conference**<br>
+conference: '<span style="font-size:0.95em;">2024-09-20: **Northern Finance Association Conference**<br>
   2024-07-04: **31st Finance Forum Conference**<br>
   2024-04-07: **Mid-South DATA Conference**<br></span>'
 #publication_short: In *ICW*
