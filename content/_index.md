@@ -68,7 +68,6 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-      columns: 2
 #  - block: collection
 #    content:
 #      title: Recent Publications
