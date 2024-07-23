@@ -135,7 +135,7 @@ skills:
         description: ''
         percent: 100
         icon: book-open
-      - name: Blogging
+      - name: Movies
         description: ''
         percent: 100
         icon: video-camera
