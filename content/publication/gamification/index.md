@@ -78,18 +78,18 @@ slides: example
 ---
 **Introduction**
 
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
+<table style="width:100%; border-collapse: collapse; border:none;">
+  <tr style="border:none;">
     <td colspan="2" style="font-size:24px; font-weight:bold; text-align:center; border:none;">
       Abstract
     </td>
   </tr>
-  <tr>
+  <tr style="border:none;">
     <td colspan="2" style="font-size:14px; text-align:center; border:none;">
       Example
     </td>
   </tr>
-  <tr>
+  <tr style="border:none;">
     <td style="font-size:24px; font-weight:bold; text-align:center; border:none;">
       Conferences
     </td>
