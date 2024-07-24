@@ -60,7 +60,6 @@ image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
-  position: center
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
