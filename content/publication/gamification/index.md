@@ -127,7 +127,7 @@ slides: example
     <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
       Conferences
     </td>
-    <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
+    <td style="font-size:16px; justify-content: space-between; border:none;">
       2024-10-17: <b>Financial Management Association Conference</b><br>
       2024-09-20: <b>Northern Finance Association Conference</b><br>
       2024-07-04: <b>31st Finance Forum Conference</b><br>
