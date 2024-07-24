@@ -66,15 +66,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 <table style="width:100%; border-collapse: collapse; border:none;">
   <tr style="border:none;">
@@ -94,7 +94,7 @@ slides: example
     <td style="border:none;">
       <table style="width:100%; border-collapse: collapse; border:none;">
         <tr style="border:none;">
-          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:20%;">
+          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:22%;">
             2024-10-17:<br>
             2024-09-20:<br>
             2024-07-04:<br>
