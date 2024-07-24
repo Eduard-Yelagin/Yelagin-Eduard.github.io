@@ -6,6 +6,11 @@ title: 'Reproducability in Management Science'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - fisar
+  - greiner
+  - huber
+  - katok
+  - ozkes
+  - collaboration
 
 date: '2024-06-01T00:00:00Z'
 doi: ''

@@ -21,7 +21,7 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Assistant Professor; Masaryk University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
