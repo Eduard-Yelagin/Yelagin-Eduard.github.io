@@ -83,7 +83,7 @@ slides: example
     </td>
   </tr>
   <tr style="border:none;">
-    <td colspan="2" style="font-size:14px; text-align:left; border:none;">
+    <td colspan="2" style="font-size:16px; text-align:left; border:none;">
       Gamification of stock trading is a novel practice by brokers to incorporate game-like features to increase clients’ engagement with trading. This study examines how the market reacts to the introduction of 142 gamification features in the mobile trading apps of 17 major U.S. brokers. I find that the gamification of trading can be viewed as a double-edged sword. It alters and worsens retail traders’ strategy by reducing their returns and increasing return volatility. However, it also reduces costs and risks for liquidity providers by making retail order flow less toxic, leading to a positive effect for the rest of the market.
     </td>
   </tr>
@@ -94,13 +94,13 @@ slides: example
     <td style="border:none;">
       <table style="width:100%; border-collapse: collapse; border:none;">
         <tr style="border:none;">
-          <td style="font-size:14px; justify-content: space-between; border:none; text-align:center; width:20%;">
+          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:20%;">
             2024-10-17:<br>
             2024-09-20:<br>
             2024-07-04:<br>
             2024-04-07:
           </td>
-          <td style="font-size:14px; text-align:left; border:none; white-space: nowrap;">
+          <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
             <b>Financial Management Association Conference</b><br>
             <b>Northern Finance Association Conference</b><br>
             <b>31st Finance Forum Conference</b><br>
@@ -112,29 +112,6 @@ slides: example
   </tr>
 </table>
 
-<table style="width:100%; border-collapse: collapse; border:none;">
-  <tr style="border:none;">
-    <td colspan="2" style="font-size:24px; font-weight:bold; text-align:center; border:none;">
-      Abstract
-    </td>
-  </tr>
-  <tr style="border:none;">
-    <td colspan="2" style="font-size:16px; text-align:left; border:none;">
-      Gamification of stock trading is a novel practice by brokers to incorporate game-like features to increase clients’ engagement with trading. This study examines how the market reacts to the introduction of 142 gamification features in the mobile trading apps of 17 major U.S. brokers. I find that the gamification of trading can be viewed as a double-edged sword. It alters and worsens retail traders’ strategy by reducing their returns and increasing return volatility. However, it also reduces costs and risks for liquidity providers by making retail order flow less toxic, leading to a positive effect for the rest of the market.
-    </td>
-  </tr>
-  <tr style="border:none;">
-    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
-      Conferences
-    </td>
-    <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
-      2024-10-17: <b>Financial Management Association Conference</b><br>
-      2024-09-20: <b>Northern Finance Association Conference</b><br>
-      2024-07-04: <b>31st Finance Forum Conference</b><br>
-      2024-04-07: <b>Mid-South DATA Conference</b>
-    </td>
-  </tr>
-</table>
 
 ##### **Introduction**
 
