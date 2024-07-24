@@ -106,7 +106,7 @@ image:
           <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
             <b>Plato Market Innovator Conference</b><br>
             <b>Paris December Finance Meeting</b><br>
-            <b>Financial Management Association Meeting</b><br>
+            <b>Financial Management Association Conference</b><br>
             <b>Finance Down Under Conference</b>
           </td>
         </tr>
