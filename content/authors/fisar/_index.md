@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:milos.fisar@econ.muni.cz'
-  - icon: custom/website.avif
+  - icon: custom/website
     url: https://www.milosfisar.eu/
   - icon: brands/orcid
     url: https://orcid.org/0000-0003-4153-3500
