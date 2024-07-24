@@ -1,13 +1,15 @@
 ---
-title: 'Gamification of Stock Trading: Losers and Winners'
+title: 'Reproducability in Management Science'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - shkilko
+  - sokolov
   - admin
 
-date: '2024-07-15T00:00:00Z'
+date: '2024-06-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,20 +21,21 @@ doi: ''
 #publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '<span style="font-size:0.95em;">2024-09-20: **Northern Finance Association Conference**<br>
-  2024-07-04: **31st Finance Forum Conference**<br>
-  2024-04-07: **Mid-South DATA Conference**<br></span>'
+#publication: '<span style="font-size:0.95em;">2024-05-10: **Journal Submission**<br>
+#  2023-06-21: **Plato Market Innovator Conference**<br>
+#  2022-12-15: **Paris December Finance Meeting**<br>
+#  2022-10-20: **Financial Management Association Meeting**<br>
+#  2022-03-05: **Finance Down Under Conference**</span><br>'
 #publication_short: In *ICW*
 
-abstract: Gamification of stock trading is a novel practice by brokers to incorporate game-like features to increase clients’ engagement with trading. This study examines how the market reacts to the introduction of 142 gamification features in the mobile trading apps of 17 major U.S. brokers. I find that the gamification of trading can be viewed as a double-edged sword. It alters and worsens retail traders’ strategy by reducing their returns and increasing return volatility. However, it also reduces costs and risks for liquidity providers by making retail order flow less toxic, leading to a positive effect for the rest of the market.
+#abstract: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
 
 
 # Summary. An optional shortened abstract.
-summary: Gamification of stock trading is a novel practice by brokers to incorporate game-like features to increase clients’ engagement with trading. This study examines how the market reacts to the introduction of 142 gamification features in the mobile trading apps of 17 major U.S. brokers. I find that the gamification of trading can be viewed as a double-edged sword. It alters and worsens retail traders’ strategy by reducing their returns and increasing return volatility. However, it also reduces costs and risks for liquidity providers by making retail order flow less toxic, leading to a positive effect for the rest of the market.
+summary: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
 
 tags:
-  - Job market paper
-  - Conference stage
+  - Under journal revision
 
 # Display this page in the Featured widget?
 featured: true
@@ -42,15 +45,15 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1xHJsoe2Bauc-DBbNQ5p9U5CQUHQZyX4F/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/1DIls7Nd8yXHXceqti9sAZ28v9E6OkIej/view?usp=sharing'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
 links:
 - name: Slides
-  url: 'https://docs.google.com/presentation/d/1StFftfEoY_obMZ_xYx_LvfMeJ0-obaE2/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
-#url_slides: 'https://docs.google.com/presentation/d/1StFftfEoY_obMZ_xYx_LvfMeJ0-obaE2/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
+  url: 'https://docs.google.com/presentation/d/14-m0IH2ocgj4WEanVijXczbnUgKEaCnT/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
+#url_slides: 'https://docs.google.com/presentation/d/14-m0IH2ocgj4WEanVijXczbnUgKEaCnT/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
 
@@ -66,45 +69,94 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
+<table style="width:100%; border-collapse: collapse; border:none;">
+  <tr style="border:none;">
+    <td colspan="2" style="font-size:24px; font-weight:bold; text-align:center; border:none;">
+      Abstract
+    </td>
+  </tr>
+  <tr style="border:none;">
+    <td colspan="2" style="font-size:16px; text-align:left; border:none;">
+      Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
+    </td>
+  </tr>
+  <tr style="border:none;">
+    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
+      Conferences
+    </td>
+    <td style="border:none;">
+      <table style="width:100%; border-collapse: collapse; border:none;">
+        <tr style="border:none;">
+          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:24%;">
+            2023-06-21:<br>
+            2022-12-15:<br>
+            2022-10-20:<br>
+            2022-03-05:
+          </td>
+          <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
+            <b>Plato Market Innovator Conference</b><br>
+            <b>Paris December Finance Meeting</b><br>
+            <b>Financial Management Association Conference</b><br>
+            <b>Finance Down Under Conference</b>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 ##### **Introduction**
 
 <span style="font-size:0.8em;">
 
-Gamification acts as a catalyst to significantly boost human engagement in a given task. It has been widely used in education (Caponetto, Earp, and Ott (2014)), business (Wünderlich, Gustafsson, Hamari, Parvinen, and Haff (2020)), and healthcare (Johnson, Deterding, Kuhn, Staneva, Stoyanov, and Hides (2016)). Meanwhile, the all-time high participation rate of retail investors (McCabe (2021)), the recent case of market manipulation with meme stocks (Pedersen (2022)), and continual debates in the Securities and Exchange Commission about the regulation of brokers strategies in the U.S. to enhance clients’ engagement (SEC (2021)) call for a market microstructure study of gamification. 
+The role of securities exchanges in the proper functioning of financial markets is difficult to overstate. Exchanges bring together investors, large and small, allowing them to realize gains from trade, mobilize capital, and incorporate relevant information into prices. To keep pace with the unrelenting march of technology and customer expectations, exchanges continuously innovate. Theoretical models predict that such innovation may have both positive and negative effects on market quality. Likewise, empirical studies find that while some exchange initiatives are beneficial for liquidity, others may be disadvantageous. With such varying findings, it is of interest to ask if exchange innovation is beneficial as a whole, and if all market participants capture the benefits.
 
-I add to this literature by analyzing updates of major U.S. brokers’ mobile trading apps. The updates are typically accompanied by developers’ notes about the purpose of an update. Based on these notes, I identify updates that are associated with gamification of a trading process. The results suggest that gamified updates drive retail traders to take more risks and diminish their returns. In the meantime, trading costs decrease, and market quality improves for the rest of the
-market.
+We address these questions using a multi-year sample of new technological offerings by stock exchanges in the United States. These offerings range from improvements in data dissemination to enhancements in order processing by exchange engines. The results suggest that exchange innovation is generally associated with lower trading costs for investors who trade in small quantities. In the meantime, institutional investors do not appear to derive as much benefit from new exchange technologies; while their trading costs are typically unaffected, their trading volumes decline after new technologies are introduced.
 
-The sample of app updates made by brokerage firms comes from MobileAction (https://www.mobileaction.co/), which stores the data for all apps in the App Store starting from 2018. I collected a sample of updates for 17 major U.S. brokers’ mobile trading apps from 2018 to 2021. In total, 142 updates introduced new game-like features into the apps.
+Our sample of technological offerings comes from the public record of patents filed by theexchanges. In the U.S., when a company develops a new technology it files an application for a patent with the Patent and Trademark Office describing the invention and claiming an exclusive right to it. We collect a sample of all exchange filings in 2003-2021, for a total of 194 patents. The patents capture a wide range of exchange activities. For example, the NYSE patent US-9450999-B2 (https://bit.ly/4c2nsWy) describes technology for high performance data streaming, while Nasdaq patent US-11671395-B2 (https://bit.ly/3Vvajjd) claims rights to a “message tracking apparatus [that improves] the latency of a message processing system.” Like these two examples, the sample patents generally focus on enhancing the speed and efficiency of exchange infrastructure and on improving customer connectivity.
 
-The results show that gamified updates increase retail trading volume and do not substantially change the number of brokerage app users. These findings suggest that gamification enhances retail trading volume by increasing the engagement of existing app users. Unfortunately, gamification weakens the trading strategy of retail traders. It diminishes intraday retail trading return and increases return volatility. There is a bright side, however. 
+To measure trading costs, we use two data sources, the intraday Trade and Quote (TAQ) database and the Abel Noser institutional trading database. TAQ allows us to compute a set of conventional liquidity metrics such as quoted and effective spreads. The quoted spreads measure displayed liquidity, that is trading costs advertised by liquidity providers. In turn, the effective spreads capture liquidity costs that are actually incurred by market participants. Both liquidity metrics decline following introductions of new exchange technologies.
 
-Gamification makes retail order flow less toxic for the counterparts of retail traders, i.e., liquidity providers. First, a decrease in retail return following gamification implies a decrease in adverse selection costs. Second, retail volume imbalance decreases post gamified updates, which makes inventory management easier for liquidity providers.
+What may drive liquidity cost reductions associated with innovation? To shed light on this question, we examine two components of effective spreads, the price impact and the realized spread. The former captures adverse selection costs incurred when providing liquidity. The latter reflects liquidity provider inventory costs, fixed costs, and profits. Both components decline post-innovation, consistent with the notion that new exchange technologies help reduce market making costs and may enhance competition for liquidity provision. In addition, the data show that innovation is followed by lower price volatility and greater price efficiency.
 
-Eventually, these benefits go beyond market makers and disperse to the rest of the market. Transaction costs, proxied by quoted, effective, realized spreads, and price impact, decrease post gamified updates. Moreover, market quality improves, which is captured by an increase in traded volume and a decrease in market-wide price and return volatility.
+Liquidity in the U.S. equity market gradually improves since the early 2000s (Angel, Harris, and Spatt (2015)). It is therefore important to ensure that our tests do not merely pick up this background trend. To do so, we detrend all variables and use only the detrended variables in regression tests. In addition, we verify the results in a difference-in-differences (DID) setting against a sample of Canadian securities, for which long-term liquidity trends are similar to those of U.S. equities. Our findings are robust in the cross-section and replicate for stocks of all sizes. 
 
-The aforementioned results have substantial economic significance. The cumulative effect of all gamified updates in the sample is an increase in retail traded volume by 21.07% and a decrease in retail return by 27.78%. The overall market benefits from these changes, as the effective spread declines by 16.55%, and trading volume, besides retail trading volume, goes up by 12.23%
+The TAQ-based liquidity proxies discussed so far apply mainly to market participants, who seek to trade small share quantities represented by the size of the best quotes. Meanwhile, institutional investors often trade large amounts, and for them the TAQ proxies may not be the most suitable (Eaton, Irvine, and Liu (2021)). To shed light on the effects of exchange innovation on institutions, we use Abel Noser data and estimate the execution shortfall, a metric commonly used to measure institutional trading costs (e.g., Conrad, Johnson, and Wahal (2001) and Anand, Puckett, Irvine, and Venkataraman (2013)). The results show that exchange innovation is not associated with changes in execution shortfall. Nevertheless, innovation is followed by lower institutional trading volumes. In summary, while exchange innovation may benefit the seekers of small amounts of liquidity, its effects are more ambiguous for those, who trade large amounts.
+
+What may be behind this dichotomy? We posit that the answer may lie with tech-savvy trading firms that dominate trading in modern markets. These firms are commonly referred to as high-frequency traders (HFTs). Fierce competition for speed drives their unrelenting pursuit of innovation. Using a dataset that identifies trading by such firms, we illustrate that they are quick to react to new exchange technologies, with their share of trading volume increasing shortly after exchange patent filings.
+
+Prior research finds that tech-savvy firms play a major role in liquidity provision, yet also points out that they are highly skilled at avoiding adverse selection and maintaining low inventories (Brogaard, Hagströmer, Nordén, and Riordan (2015), Brogaard, Carrion, Moyaert, Riordan, Shkilko, and Sokolov (2018)). Consequently, liquidity provision by such firms may be beneficial for relatively uninformed investors who trade small quantities, but not for institutional liquidity seekers, who are often informed and trade large positions. As new technologies improve the ability of these firms to avoid adverse selection and unwanted inventory accumulation, they may provide less liquidity when institutional investors demand it or provide liquidity at prices greater than what institutions are willing to pay. The probable outcome is a decrease in market participation by institutions.
+
+In addition to liquidity provision, tech-savvy firms regularly engage in liquidity demand. Their inventory management and arbitrage strategies are highly time-sensitive and often require taking liquidity (Brogaard, Hendershott, and Riordan (2014), Chaboud, Chiquoine, Hjalmarsson, and Vega (2014), Boehmer, Li, and Saar (2018), Baron, Brogaard, Hagströmer, and Kirilenko (2019)). The ability to harness new technology may give these firms an advantage over institutions in the race to trade against outstanding quotes, potentially resulting in decreased execution probabilities for institutional flow.
+
+Do institutions fail to benefit from exchange innovation because they do not pay attention to new technological developments? To shed light on this question, we examine patent citations with the assumption that market participants affected by a patent will cite it. We find that while most patents are cited primarily by the tech-savvy trading firms and firms that manufacture technologies used for trading, a smaller group of patents is cited mainly by institutional investors. Examining these two patent groups separately, we show that the patents cited by trading and technology firms tend to conform to our main findings. They primarily benefit those who trade small quantities and are associated with lower institutional trading volume. Meanwhile, patents cited by institutions are not linked to any adverse effects for small traders, yet are associated with greater institutional trading volumes. This result suggests that institutions are not entirely disinterested in new technology and are capable of harnessing it. However, the relatively small number of patents cited by institutions indicates that most technologies may be challenging to appropriate for institutional benefit.
+
+Finally, we seek to understand the driving forces behind exchange innovation. Innovation may occur as a routine practice, with exchanges continuously developing new product offerings, or as a strategic response to various challenges such as declining volume or market share and innovation by the rival exchanges. Our results are consistent with both routine practice and strategic response explanations. Nevertheless, the strategic response effect is rather weak. Furthermore, the innovating exchanges do not seem to directly benefit from their new technology; their own trading volumes and market shares do not increase. Overall, the relentless advancement of technology and the need to meet the expectations of tech-savvy customers responsible to liquidity provision seem to be the primary drivers of exchange innovation efforts.
+
+Our findings contribute to an ongoing discussion of modern market structure and the securities exchange industry. Even though exchange innovation by the incumbent exchanges likely does not have nefarious intentions towards any particular group of market participants, it may inadvertently benefit those, who are best equipped for technological change. In this respect, establishing markets that cater to the needs of the institutional community may be socially optimal. This logic echoes Biais, Foucault, and Moinas (2015), who model interactions between investors that operate at different trading speeds and examine the benefits of segmenting markets into those that cater to fast and slow traders.
 
 ##### **Related literature** 
 
-This study is related to the literature that examines retail trading. Earlier works show that retail traders are unsophisticated and tend to be lured by behavioral biases (Barber and Odean (2000); Barber and Odean (2008)), while later studies indicate that retail traders may predict future returns and use a contrarian strategy to provide liquidity (Kaniel, Saar, and Titman (2008); Kelley and Tetlock (2013)). The most recent findings about retail traders vary. Barber, Huang, Odean, and Schwarz (2022) show that retail traders demonstrate the same type of biases found in earlier studies, whereas Welch (2022) argues for an overall good trading performance by retail traders. The partial answer to this incongruity may lie in the heterogeneity of retail traders. Eaton, Green, Roseman, and Wu (2021) find that properties of retail order flow are different for clients of different brokers. Overall, whether retail traders are informed or not remains an open question. While some studies show that retail traders generate positive returns (Boehmer, Jones, Zhang, and Zhang (2021)), others demonstrate that retail traders act more like noise traders (Peress and Schmidt (2020)). My findings illustrate that retail traders generate positive intraday returns on average, but this property is highly malleable and can be altered by gamification. As a result, retail traders act more noisily and contribute to market liquidity (Glosten and Milgrom (1985); Kyle (1985)).
+Several theoretical models consider the effects of advancements in exchange technology and predict that such advancements may be both beneficial and detrimental. Menkveld and Zoican (2017) show that increasing exchange engine processing speed may have both positive and negative effects on liquidity. In their model, the direction of the effect may vary over time and in the cross-section and depends on the mix of liquidity traders and news events. Pagnotta and Philippon (2018) show that increasing exchange speed may lead to lower trading fees and greater investor participation. They however caution that purely technological improvements to trading technology may lead to limited welfare gains.
 
-The study also contributes to the literature that examines retail herding. Retail traders tend to trade in the same direction in response to market-wide events (Barber, Odean, and Zhu (2008); Barber, Lin, and Odean (2021)). Such a trading strategy creates additional inventory costs for market makers, who act as counterparties in these trades (Ho and Stoll (1981); Grossman and Miller (1988); Hendershott and Menkveld (2014)). The antidote to herding is noisier trades. For example, Cookson, Engelberg, and Mullins (2023) show that disagreement among retail investors leads to greater liquidity because such traders are relatively balanced on both sides of an order book. The current research indicates that gamification forces retail traders to act more noisily, which makes their order flow less toxic. In line with the theory of Baldauf, Mollner, and Yueshen (2023), market makers utilize this shift to improve exchange execution, as manifested in improved market-wide liquidity metrics.
+Perhaps the closest to our study, Cespa and Vives (2022) model an environment, in which exchanges supply technology services to various market participants. The fast adopters of new technology use it to improve liquidity, generating a positive welfare effect. In the meantime, traders who are unable to adopt new technology face lower payoffs. Our results echo the implications of this model. While exchange innovation benefits small liquidity consumers by allowing liquidity providers to reduce adverse selection and inventory costs, it also results in lower market participation by institutional investors, who seem to often struggle with adopting new technology.
 
-This paper also discusses retail brokerage firms. In today’s market, they act as intermediaries between retail traders and wholesalers. The current practice, known as payment for order flow, allows brokerage firms to collect retail order flow and sell it to wholesalers for a premium (Easley, Kiefer, O’hara, and Paperman (1996); Battalio (1997); Bessembinder and Kaufman (1997); Comerton-Forde, Malinova, and Park (2018); Dyhrberg, Shkilko, and Werner (2022)). Then these orders are executed off-exchange (Menkveld, Yueshen, and Zhu (2017); Buti, Rindi, and Werner (2017)). Since the amount of the premium paid to brokerage firms depends on the traded volume they are able to collect (Bryzgalova, Pavlova, and Sikorskaya (2023)), it is in their best interest to maximize retail trading on their platforms (Egan (2019); Heimer and Simsek (2019)). To do so, brokers introduce new rational and behavioral features into their platforms. Two examples of rational features are zero-commission trading (Jain, Mishra, O’Donoghue, and Zhao (2020)) and fractional shares trading (Bartlett, McCrary, and O’Hara (2022)). In contrast, behavioral features include practices that increase the propensity of retail traders to execute extra trades, such as push notifications (Arnold, Pelster, and Subrahmanyam (2022); Moss (2022)) and gamification.
+The empirical literature examines a number of technological enhancements to the exchange trading process. The outcomes of such enhancements vary. Hendershott, Jones, and Menkveld (2011) show that exchange-driven automation of liquidity provision results in liquidity improvements. Conversely, Hendershott and Moulton (2011) and Foucault, Kozhan, and Tham (2017) find that exchange technology enhancements that benefit liquidity-demanding strategies have adverse liquidity effects. Brogaard, Hagströmer, Nordén, and Riordan (2015) and Conrad, Wahal, and Xiang (2015) study co-location, a practice that allows trading firms to place trading servers near exchange matching engines. They report that the practice is mainly used by liquidity suppliers and therefore benefits liquidity. Overall, empirical findings vary across technologies and practices, making it difficult to draw conclusions about the net effects of technological advancement. Our analysis of a multi-year sample of exchange technological offerings therefore brings the literature closer to understanding the general effects of exchange innovation. 
 
-Gamification can be defined as “the use of game design elements in non-game contexts” (Deterding, Dixon, Khaled, and Nacke (2011)). It has been widely used in education (Caponetto, Earp, and Ott (2014)), business (Wünderlich, Gustafsson, Hamari, Parvinen, and Haff (2020)), and healthcare (Johnson, Deterding, Kuhn, Staneva, Stoyanov, and Hides (2016)) as a method to enhance performance in a given task. Whereas in finance, the only documented cases of the use of gamification are in the banking sector (Rodrigues, Oliveira, and Costa (2016); Baptista and Oliveira (2017)). This study contributes to the literature by analyzing how new game-like features, introduced by brokerage firms, affect their clients, i.e., retail traders. Chapkovski, Khapko, and Zoican (2021) conducted an experiment on traders using a trading platform with and without game-like features. Their study shows that gamification elements increase traders’ engagement, prompt them to take excessive risks, and conduct noisier trading. The results of this study confirm these findings in an empirical setting.
+Our study is related to the literature that examines liquidity costs and to a sub-set of this literature that focuses on institutional investors. Anand, Puckett, Irvine, and Venkataraman (2013) suggest that despite the overall trend to lower liquidity costs in the 21st century, institutional investor trading costs did not decline. This result echoes the earlier findings by Goldstein and Kavajecz (2000) and Jones and Lipson (2001), who show that regulatory actions that reduce spreads may not have similar liquidity-boosting effects for large traders. Eaton, Irvine, and Liu (2021) generalize this finding to caution that changes in institutional trading costs do not always align with changes in conventional TAQ-based liquidity metrics.
 
-<a href="https://drive.google.com/file/d/1xHJsoe2Bauc-DBbNQ5p9U5CQUHQZyX4F/view?usp=drive_link" target="_blank"> **Read more** </a>
+Our arguments are also rooted in the literature on sophisticated trading firms often referred to as HFTs. Such firms fulfill several important functions, among which liquidity provision and ar- bitrage stand out as dominant (Brogaard, Hendershott, and Riordan (2014), Chaboud, Chiquoine, Hjalmarsson, and Vega (2014), Brogaard, Hagströmer, Nordén, and Riordan (2015), Boehmer, Li, and Saar (2018)). HFTs are highly skilled at avoiding adverse selection and maintaining low inventories (Korajczyk and Murphy (2019), Van Kervel and Menkveld (2019)), and therefore their liquidity supply is likely more beneficial to uninformed investors seeking small amounts of liquidity than to institutional investors.
+
+<a href="https://drive.google.com/file/d/1DIls7Nd8yXHXceqti9sAZ28v9E6OkIej/view?usp=sharing" target="_blank"> **Read more** </a>
 
 </span>
