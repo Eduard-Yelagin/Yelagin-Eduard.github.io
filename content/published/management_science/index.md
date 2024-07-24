@@ -79,7 +79,7 @@ image:
 <table style="width:100%; border-collapse: collapse; border:none;">
   <tr style="border:none;">
     <td colspan="2" style="font-size:24px; font-weight:bold; text-align:center; border:none;">
-      Abstract
+      # Abstract
     </td>
   </tr>
   <tr style="border:none;">
