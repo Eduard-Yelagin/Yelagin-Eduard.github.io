@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Published Papers
+      title: Other Research
       filters:
         folders:
           - published
