@@ -5,9 +5,7 @@ title: 'Reproducability in Management Science'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - shkilko
-  - sokolov
-  - admin
+  - fisar
 
 date: '2024-06-01T00:00:00Z'
 doi: ''
