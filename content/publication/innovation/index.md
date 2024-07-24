@@ -21,14 +21,14 @@ doi: ''
 #publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '<span style="font-size:0.95em;">2024-05-10: **Journal Submission**<br>
-  2023-06-21: **Plato Market Innovator Conference**<br>
-  2022-12-15: **Paris December Finance Meeting**<br>
-  2022-10-20: **Financial Management Association Meeting**<br>
-  2022-03-05: **Finance Down Under Conference**</span><br>'
+#publication: '<span style="font-size:0.95em;">2024-05-10: **Journal Submission**<br>
+#  2023-06-21: **Plato Market Innovator Conference**<br>
+#  2022-12-15: **Paris December Finance Meeting**<br>
+#  2022-10-20: **Financial Management Association Meeting**<br>
+#  2022-03-05: **Finance Down Under Conference**</span><br>'
 #publication_short: In *ICW*
 
-abstract: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
+#abstract: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
 
 
 # Summary. An optional shortened abstract.
@@ -69,16 +69,52 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
+<table style="width:100%; border-collapse: collapse; border:none;">
+  <tr style="border:none;">
+    <td colspan="2" style="font-size:24px; font-weight:bold; text-align:center; border:none;">
+      Abstract
+    </td>
+  </tr>
+  <tr style="border:none;">
+    <td colspan="2" style="font-size:16px; text-align:left; border:none;">
+      Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
+    </td>
+  </tr>
+  <tr style="border:none;">
+    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
+      Conferences
+    </td>
+    <td style="border:none;">
+      <table style="width:100%; border-collapse: collapse; border:none;">
+        <tr style="border:none;">
+          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:22%;">
+            2023-06-21:<br>
+            2022-12-15:<br>
+            2022-10-20:<br>
+            2022-03-05:
+          </td>
+          <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
+            <b>Plato Market Innovator Conference</b><br>
+            <b>Paris December Finance Meeting</b><br>
+            <b>Financial Management Association Meeting</b><br>
+            <b>Finance Down Under Conference</b>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 ##### **Introduction**
 
 <span style="font-size:0.8em;">
