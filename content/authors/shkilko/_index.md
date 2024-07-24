@@ -21,7 +21,7 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Professor, Laurier Research Chair in Financial Markets
+role: Professor; Wilfrid Laurier University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
