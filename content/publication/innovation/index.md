@@ -97,7 +97,7 @@ image:
     <td style="border:none;">
       <table style="width:100%; border-collapse: collapse; border:none;">
         <tr style="border:none;">
-          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:22%;">
+          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:24%;">
             2023-06-21:<br>
             2022-12-15:<br>
             2022-10-20:<br>
