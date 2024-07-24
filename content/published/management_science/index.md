@@ -12,7 +12,7 @@ authors:
   - ozkes
   - collaborators
 
-date: '2024-06-01T00:00:00Z'
+date: '2024-03-31T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +35,10 @@ doi: ''
 
 
 # Summary. An optional shortened abstract.
-summary: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
+summary: With the help of more than 700 reviewers, we assess the reproducibility of nearly 500 articles published in the journal Management Science before and after the introduction of a new Data and Code Disclosure policy in 2019. When considering only articles for which data accessibility and hardware and software requirements were not an obstacle for reviewers, the results of more than 95% of articles under the new disclosure policy could be fully or largely computationally reproduced. However, for 29% of articles, at least part of the data set was not accessible to the reviewer. Considering all articles in our sample reduces the share of reproduced articles to 68%. These figures represent a significant increase compared with the period before the introduction of the disclosure policy, where only 12% of articles voluntarily provided replication materials, of which 55% could be (largely) reproduced. Substantial heterogeneity in reproducibility rates across different fields is mainly driven by differences in data set accessibility. Other reasons for unsuccessful reproduction attempts include missing code, unresolvable code errors, weak or missing documentation, and software and hardware requirements and code complexity. Our findings highlight the importance of journal code and data disclosure policies and suggest potential avenues for enhancing their effectiveness.
 
 tags:
-  - Under journal revision
+  - Published in _Management Science_
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,17 +48,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1DIls7Nd8yXHXceqti9sAZ28v9E6OkIej/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/1kMe2G62gmxtMEa-IfyocuTC87YDBqJ0H/view?usp=sharing'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
-links:
-- name: Slides
-  url: 'https://docs.google.com/presentation/d/14-m0IH2ocgj4WEanVijXczbnUgKEaCnT/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
-#url_slides: 'https://docs.google.com/presentation/d/14-m0IH2ocgj4WEanVijXczbnUgKEaCnT/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
-#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -90,29 +84,9 @@ image:
   </tr>
   <tr style="border:none;">
     <td colspan="2" style="font-size:16px; text-align:left; border:none;">
-      Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
+      With the help of more than 700 reviewers, we assess the reproducibility of nearly 500 articles published in the journal Management Science before and after the introduction of a new Data and Code Disclosure policy in 2019. When considering only articles for which data accessibility and hardware and software requirements were not an obstacle for reviewers, the results of more than 95% of articles under the new disclosure policy could be fully or largely computationally reproduced. However, for 29% of articles, at least part of the data set was not accessible to the reviewer. Considering all articles in our sample reduces the share of reproduced articles to 68%. These figures represent a significant increase compared with the period before the introduction of the disclosure policy, where only 12% of articles voluntarily provided replication materials, of which 55% could be (largely) reproduced. Substantial heterogeneity in reproducibility rates across different fields is mainly driven by differences in data set accessibility. Other reasons for unsuccessful reproduction attempts include missing code, unresolvable code errors, weak or missing documentation, and software and hardware requirements and code complexity. Our findings highlight the importance of journal code and data disclosure policies and suggest potential avenues for enhancing their effectiveness.
     </td>
   </tr>
-  <tr style="border:none;">
-    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
-      Conferences
-    </td>
-    <td style="border:none;">
-      <table style="width:100%; border-collapse: collapse; border:none;">
-        <tr style="border:none;">
-          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:24%;">
-            2023-06-21:<br>
-            2022-12-15:<br>
-            2022-10-20:<br>
-            2022-03-05:
-          </td>
-          <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
-            <b>Plato Market Innovator Conference</b><br>
-            <b>Paris December Finance Meeting</b><br>
-            <b>Financial Management Association Conference</b><br>
-            <b>Finance Down Under Conference</b>
-          </td>
-        </tr>
       </table>
     </td>
   </tr>
