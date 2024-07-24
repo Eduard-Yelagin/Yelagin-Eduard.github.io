@@ -10,7 +10,7 @@ authors:
   - huber
   - katok
   - ozkes
-  - collaboration
+  - collaborators
 
 date: '2024-06-01T00:00:00Z'
 doi: ''
