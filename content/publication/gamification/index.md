@@ -42,14 +42,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1xHJsoe2Bauc-DBbNQ5p9U5CQUHQZyX4F/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/11Tkdm3R9R3pHJnY8iqEMCwxdAnQJ4_VP/view?usp=sharing'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
 links:
 - name: Slides
-  url: 'https://docs.google.com/presentation/d/1StFftfEoY_obMZ_xYx_LvfMeJ0-obaE2/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
+  url: 'https://drive.google.com/file/d/17vwfCDG48Rn-9bgh0ln2pLc8pSYmxF2U/view?usp=sharing'
 #url_slides: 'https://docs.google.com/presentation/d/1StFftfEoY_obMZ_xYx_LvfMeJ0-obaE2/edit?usp=sharing&ouid=110182918582248488757&rtpof=true&sd=true'
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
