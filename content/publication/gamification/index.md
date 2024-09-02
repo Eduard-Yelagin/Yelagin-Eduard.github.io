@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/11Tkdm3R9R3pHJnY8iqEMCwxdAnQJ4_VP/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/1LHS3ZbQz-0Ccj4CmwcgGtLWIdhB0bpEY/view?usp=drive_link'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
