@@ -101,7 +101,7 @@ image:
             2024-04-07:
           </td>
           <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
-            <b>Financial Management Association Conference</b><br>
+            <b>Financial Management Association Conference</b> <b>Best Paper Semifinalist (Final Decision Pending)</b> <br>
             <b>Northern Finance Association Conference</b><br>
             <b>31st Finance Forum Conference</b><br>
             <b>Mid-South DATA Conference</b>
