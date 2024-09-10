@@ -95,12 +95,14 @@ image:
       <table style="width:100%; border-collapse: collapse; border:none;">
         <tr style="border:none;">
           <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:22%;">
+            2024-12-19:<br>
             2024-10-17:<br>
             2024-09-20:<br>
             2024-07-04:<br>
             2024-04-07:
           </td>
           <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
+            <b>Paris December Finance Meeting</b><br>
             <b>Financial Management Association Conference</b><br>
             <b>Northern Finance Association Conference</b><br>
             <b>31st Finance Forum Conference</b><br>
