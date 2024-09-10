@@ -94,7 +94,7 @@ image:
     <td style="border:none;">
       <table style="width:100%; border-collapse: collapse; border:none;">
         <tr style="border:none;">
-          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:22%;">
+          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:25%;">
             2024-12-19:<br>
             2024-10-17:<br>
             2024-09-20:<br>
