@@ -110,8 +110,8 @@ image:
   </tr>
   <!-- Existing Conference Section -->
   <tr style="border:none;">
-    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
-      Conference
+    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%;">
+      Conferences
     </td>
     <td style="border:none;">
       <table style="width:100%; border-collapse: collapse; border:none;">
