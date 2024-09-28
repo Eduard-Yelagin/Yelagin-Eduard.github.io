@@ -35,7 +35,7 @@ doi: ''
 summary: Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
 
 tags:
-  - Under journal revision
+  - R&R at the Review of Finance
 
 # Display this page in the Featured widget?
 featured: true
@@ -90,6 +90,20 @@ image:
       Securities markets continuously innovate to keep pace with technology. It is often debated if such innovation is beneficial, and which market participants capture the benefits. We contribute to this debate by examining the effects of a wide range of proprietary enhancements to the trading process introduced by the stock exchanges in the United States. Generally, exchange innovation is associated with improvements in liquidity and price efficiency, although the reduction in liquidity costs primarily benefits investors trading in small quantities. Institutional investors experience less favorable outcomes; while their trading costs remain unchanged, their market participation declines.
     </td>
   </tr>
+   <tr style="border:none;">
+    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
+      Publication
+    </td>
+    <td style="border:none;">
+      <table style="width:100%; border-collapse: collapse; border:none;">
+        <tr style="border:none;">
+          <td style="font-size:16px; justify-content: space-between; border:none; text-align:center; width:24%;">
+            2024-09-28:<br>
+          </td>
+          <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
+            1st R&R at the <b>Review of Finance</b><br>
+          </td>
+        </tr>
   <tr style="border:none;">
     <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
       Conferences
