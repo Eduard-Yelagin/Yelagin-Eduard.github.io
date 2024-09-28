@@ -7,7 +7,7 @@ title: 'Gamification of Stock Trading: Losers and Winners'
 authors:
   - admin
 
-date: '2024-07-15T00:00:00Z'
+#date: '2024-07-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
