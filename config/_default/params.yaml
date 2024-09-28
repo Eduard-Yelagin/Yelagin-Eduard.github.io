@@ -59,4 +59,4 @@ features:
   privacy_pack:
     enable: false
 
-showDate: true
+showdate: False
