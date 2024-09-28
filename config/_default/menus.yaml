@@ -25,5 +25,3 @@ main:
   #- name: Projects
   #  url: projects/
   #  weight: 30
-
-showdate: False
