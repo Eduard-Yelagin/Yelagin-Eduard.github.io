@@ -92,7 +92,7 @@ image:
   </tr>
   <!-- New Publication Section -->
   <tr style="border:none;">
-    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%; position:relative; top:3px;">
+    <td style="font-size:24px; font-weight:bold; text-align:left; border:none; width:1%;">
       Publication
     </td>
     <td style="border:none;">
