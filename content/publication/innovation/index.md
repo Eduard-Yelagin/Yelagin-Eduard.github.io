@@ -102,7 +102,7 @@ image:
             2024-09-28:
           </td>
           <td style="font-size:16px; text-align:left; border:none; white-space: nowrap;">
-            1st R&R at the <b>Review of Finance</b>
+            R&R at the <b>Review of Finance</b>
           </td>
         </tr>
       </table>
