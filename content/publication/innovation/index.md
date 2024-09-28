@@ -36,7 +36,6 @@ summary: Securities markets continuously innovate to keep pace with technology. 
 
 tags:
   - R&R at the Review of Finance
-  - weight: 200
 
 # Display this page in the Featured widget?
 featured: true
