@@ -25,14 +25,14 @@ role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Memphis
-    url: https://memphis.edu/
+  - name: University of Mississippi
+    url: https://https://olemiss.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:eyelagin@memphis.edu'
+    url: 'mailto:eyelagin@olemiss.edu'
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/yelagin.eduard.evgenevich/
