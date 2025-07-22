@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -182,4 +182,4 @@ skills:
 
 ## About Me
 
-I am a PhD candidate on the job market, advised by <a href="https://scholar.google.com/citations?hl=en&user=fIiDOWkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Konstantin Sokolov</a>. My research primarily focuses on empirical market microstructure and FinTech, with a particular emphasis on financial market innovation. Currently, I am studying the effects of stock trading gamification on retail traders and other market participants, including brokerage firms and market makers.
+I am an Assistant Professor at the University of Mississippi, specializing in empirical market microstructure and financial technology. My research centers on financial market innovation, with a current focus on how gamification in stock trading affects retail investors, brokerage firms, and market makers.
