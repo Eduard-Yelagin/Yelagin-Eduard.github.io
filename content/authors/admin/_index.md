@@ -63,6 +63,11 @@ education:
     institution: La Salle University
     date_start: 2017-09-01
     date_end: 2019-06-01
+
+  - area: AA in Business Administration
+    institution: Community College of Philadelphia
+    date_start: 2015-09-01
+    date_end: 2017-06-01
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
